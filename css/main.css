@@ -1,0 +1,52 @@
+div.row img.resimSekillendir{
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  
+}
+header{
+  margin-bottom: 3%;
+}
+div.row{
+  margin-bottom:5px;
+  width: 100%;
+}
+
+.kucult{
+  width: 50px;
+  height: 50px;
+}
+
+div.row.hizala{
+  margin-left: 0px;
+  margin-top: 5px;
+}
+div.row.boya{
+  background: #091034;
+}
+
+header.renk{
+  background: #283E4B;
+}
+header a.nav-link{
+  color: white!important;
+}
+header a.navbar-brand{
+  color:white!important;
+}
+header a.kaydir{
+  margin-left: 165%;
+  width: 100%;
+}
+div.row div.col-lg-12{
+  margin-bottom: 20px;
+}
+.footer{
+  text-align: center;
+  background: #091034;
+  color:white;
+}
+.ortala{
+  text-align: center!important;
+  
+}
